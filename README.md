@@ -1,5 +1,7 @@
 # Email Spam Detection
 
+Frontend python code to make post api requests to use a autoML email spam detection model on GCP.
+
 Prerequisite:
 - train a AutoML model on a spam-ham dataset from kaggle. example: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 - Add your private key to bearer token in app.py
