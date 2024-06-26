@@ -8,13 +8,16 @@ Prerequisite:
 
 Run the app.py file:
 - Tkinter window:
+  
 ![image](https://github.com/adityarao1612/GCP-Email-spam-detection/assets/92964413/5d5bef53-c2e5-43c0-8efb-d7641092bbba)
 
 - Take a snip screenshot of your email feed to check for spam:
+  
 sample image:
 ![image](https://github.com/adityarao1612/GCP-Email-spam-detection/assets/92964413/7216461c-1edd-4bc1-a301-2e2820eab5ed)
 
-- click on Import from Clipboard and Scan for Spam
+- click on Import from Clipboard and Scan for Spam:
+  
   output image:
 ![image](https://github.com/adityarao1612/GCP-Email-spam-detection/assets/92964413/f93c44db-44cf-4b39-82d8-7cb28c9aec66)
 
